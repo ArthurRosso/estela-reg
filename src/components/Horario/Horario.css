@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Proxima+Nova:regular,bold,italic&subset=latin,latin-ext');
-
 .Horario {    
     border: 1.5px solid #3BAEA2;
     box-sizing: border-box;
@@ -8,7 +6,7 @@
 .Horario-header {
     border-bottom: 1.5px solid #3BAEA2;
 
-    font-family: Proxima Nova;
+    font-family: 'Proxima Nova';
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -18,7 +16,7 @@
 }
 
 label {
-    font-family: Proxima Nova;
+    font-family: 'Proxima Nova';
     font-style: normal;
     font-weight: bold;
     font-size: 24px;

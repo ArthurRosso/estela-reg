@@ -1,21 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Proxima+Nova:regular,bold,italic&subset=latin,latin-ext');
-
 .Pessoal {    
     border: 1.5px solid #3BAEA2;
     box-sizing: border-box;
 }
 
 label {
-    font-family: Proxima Nova;
+    font-family: 'Proxima Nova';
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
     line-height: 29px;
     
     color: #A92B87;
-}
-
-.no-border {
-    border: 0;
-    box-shadow: none;
 }
