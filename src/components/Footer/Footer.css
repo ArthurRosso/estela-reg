@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova:regular,bold,italic&subset=latin,latin-ext');
+
+.Footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+span { 
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    
+    color: #3BAEA2; 
+}
+
+.TermosUso label {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #404040;
+}
+
+button {
+    background-color: #3BAEA2;
+    border: none;
+    color: #FFFFFF;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+}

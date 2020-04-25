@@ -3,13 +3,14 @@
 .Pessoal {    
     border: 1.5px solid #3BAEA2;
     box-sizing: border-box;
+    border-radius: 9px;
 }
 
 label {
     font-family: Proxima Nova;
     font-style: normal;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 18px;
     line-height: 29px;
     
     color: #A92B87;
