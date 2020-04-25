@@ -14,9 +14,8 @@ function Horario() {
          <div class="form-group">
             <label for="segunda">Segunda-feira</label>
             <select class="form-control " id="segunda" name="segunda">
-              <option selected disabled>Inicio</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
-              <option disabled>06:00</option>
+              <option selected disabled>Início</option>
+              <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
               <option>07:30</option>
@@ -27,7 +26,6 @@ function Horario() {
             </select><br />
             <select class="form-control " id="segunda" name="segunda">
               <option selected disabled>Fim</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -39,9 +37,8 @@ function Horario() {
             </select><br />
             <label for="terca">Terça-feira</label>
             <select class="form-control " id="terca"  name="terca">
-              <option selected disabled>Inicio</option>
-              <option>TODO: TROCAR POR DATEPICKER</option>
-              <option disabled>06:00</option>
+              <option selected disabled>Início</option>
+              <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
               <option>07:30</option>
@@ -52,7 +49,6 @@ function Horario() {
             </select><br />
             <select class="form-control " id="terca" name="terca">
               <option selected disabled>Fim</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -64,8 +60,7 @@ function Horario() {
             </select><br />
             <label for="quarta">Quarta-feira</label>
             <select class="form-control " id="quarta"  name="quarta">
-              <option selected disabled>Inicio</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
+              <option selected disabled>Início</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -77,7 +72,6 @@ function Horario() {
             </select><br />
             <select class="form-control " id="quarta" name="quarta">
               <option selected disabled>Fim</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -89,8 +83,7 @@ function Horario() {
             </select><br />
             <label for="quinta">Quinta-feira</label>
             <select class="form-control " id="quinta"  name="quinta">
-              <option selected disabled>Inicio</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
+              <option selected disabled>Início</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -102,7 +95,6 @@ function Horario() {
             </select><br />
             <select class="form-control " id="quinta" name="quinta">
               <option selected disabled>Fim</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -114,8 +106,7 @@ function Horario() {
             </select><br />
             <label for="sexta">Sexta-feira</label>
             <select class="form-control " id="sexta" name="sexta">
-              <option selected disabled>Inicio</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
+              <option selected disabled>Início</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -127,7 +118,6 @@ function Horario() {
             </select><br />
             <select class="form-control " id="sexta" name="sexta">
               <option selected disabled>Fim</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -139,8 +129,7 @@ function Horario() {
             </select><br />
             <label for="sabado">Sábado</label>
             <select class="form-control " id="sabado" name="sabado">
-              <option selected disabled>Inicio</option>
-              <option>TODO: TROCAR POR DATEPICKER</option>
+              <option selected disabled>Início</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -151,8 +140,7 @@ function Horario() {
               <option>09:30</option>
             </select><br />
             <select class="form-control " id="sabado" name="sabado">
-              <option selected disabled>Inicio</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
+              <option selected disabled>Início</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -164,8 +152,7 @@ function Horario() {
             </select><br />
             <label for="domingo">Domingo</label>
             <select class="form-control " id="domingo" name="domingo">
-              <option selected disabled>Fim</option>
-              <option>TODO: TROCAR POR DATEPICKER</option>
+              <option selected disabled>Início</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>
@@ -177,7 +164,6 @@ function Horario() {
             </select><br />
             <select class="form-control " id="domingo" name="domingo">
               <option selected disabled>Fim</option>
-              <option disabled>TODO: TROCAR POR DATEPICKER</option>
               <option>06:00</option>
               <option>06:30</option>
               <option>07:00</option>

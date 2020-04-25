@@ -4,10 +4,12 @@ import Pessoal from '../Pessoal/Pessoal';
 import Social from '../Social/Social';
 import Local from '../Local/Local';
 import Horario from '../Horario/Horario';
+import Footer from '../Footer/Footer';
 
 function App() {
   return (
-    <div class="container pt-3">
+    <div class="container">
+    <div class="m-5">
     <div className="App">
       <form>
       <div class="row">
@@ -36,7 +38,11 @@ function App() {
         <Horario />
         </div>
       </div>
+      <br />
+      <br />
+      <Footer />
       </form>
+    </div>
     </div>
     </div>
   );
